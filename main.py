@@ -1,10 +1,13 @@
 from time import sleep
 from os import system
 
+
+delay_of_text_line = 0.05
+
 def print_smooth(text):
     for char in text:
         print(char, end="", flush=True)
-        sleep(0.05)
+        sleep(delay_of_text_line)
 def clear():
     system("clear")
 
