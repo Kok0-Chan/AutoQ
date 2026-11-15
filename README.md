@@ -4,7 +4,7 @@
 
 Perfect for terminal-based visual novels, interactive stories, or just for making your console output look cool.
 
-## ✨ Features
+##  Features
 
 *   **Typewriter Effect:** Outputs text character by character.
 *   **Dynamic Pacing:** Control the speed of each individual line.
