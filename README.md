@@ -11,11 +11,11 @@
     python main.py
     ```
 
-## 🛠️ How It Works
+##  How It Works
 
 The core logic relies on Python's `zip()` function to iterate through two files simultaneously. It pairs a line of text with its corresponding delay, then passes them to a custom `print_smooth()` function that outputs characters with a short delay to achieve the typewriter effect.
 
-## 📄 Example
+## Example
 
 **text.txt:**
 ```text
@@ -31,7 +31,7 @@ This is a test.
 0.2
 ```
 
-## 👤 Author
+##  Author
 
 **Kernel (Kok0-Chan)**
 *   GitHub: [@Kok0-Chan](https://github.com/Kok0-Chan)
